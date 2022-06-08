@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 from streamlit_option_menu import option_menu
 import pickle
+import pandas as pd
 
 def fetch_poster(isbn):
     url = "http://covers.openlibrary.org/b/isbn/{}-M.jpg".format(isbn)
