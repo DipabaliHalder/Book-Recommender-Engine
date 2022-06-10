@@ -128,7 +128,7 @@ if selected=="About":
 
 if selected=="Github Repository":
     with st.sidebar:
-        st.subheader("*Check out this [link](https://github.com/DipabaliHalder) for more reference...*")
+        st.subheader("*Check out this [link](https://github.com/DipabaliHalder/Book-Recommender-Engine) for more reference...*")
 
 
 
